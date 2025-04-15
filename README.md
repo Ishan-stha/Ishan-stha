@@ -16,5 +16,5 @@
 
 
 ## 🌍 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/ishan-sth/) | [Portfolio](https://yourwebsite.com) | 📧 workmail.ish@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ishan-sth/) | [Portfolio](https://github.com/Ishan-stha) | 📧 workmail.ish@gmail.com
 
